@@ -82,3 +82,31 @@
 .text-container{
   padding-top: 10%;
 }
+.custom-section {
+  padding: 20px;
+}
+.azul-card {
+  border-color: blue;
+  border-radius: 0px;
+}
+.verde-card {
+  border-color: green;
+  border-radius: 0px;
+}
+.naranja-card {
+  border-color: orange;
+  border-radius: 0px;
+}
+
+.card-text-secondary{
+  color:grey;
+}
+#precioFinal {
+  background-color: #b2d9ea;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+p {
+  margin-top: 10px;
+}
